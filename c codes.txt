@@ -1,0 +1,8 @@
+#20272D dark 
+#3EA72B green
+#A8D300 yellow
+
+text #959494
+Facebook / #3b5998
+
+Google+ / #db4a39 
